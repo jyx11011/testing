@@ -3473,6 +3473,9 @@ hr {
 .footer-area .footer-social a:hover i {
   transform: rotateY(180deg);
 }
+.single-blogs {
+  border-left: 5px solid #3957ff;
+}
 .home_blog-area .single-blogs .blog-img {
   position: relative;
   overflow: hidden;
