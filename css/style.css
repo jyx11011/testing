@@ -73,12 +73,12 @@ h4 {
     color: #000000;
 }
 
-h5 {
+/* h5 {
     font-size: 28px;
     font-weight: 300;
     color: #000000;
     margin-bottom: 0.7rem;
-}
+} */
 
 p {
     color: #959094;
@@ -169,10 +169,13 @@ p.white {
 
 @media (max-width:767px) {
     h1 {
-        font-size: 40px;
+        font-size: 30px;
     }
     h2 {
-        font-size: 30px;
+        font-size: 25px;
+    }
+    h3 {
+        font-size: 25px;
     }
 }
 
